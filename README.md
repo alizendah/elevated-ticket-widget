@@ -2,6 +2,10 @@
 
 A Flutter package which will help you to generate ticket shaped widget with elevation, highly customizable and flexible.
 
+## Screenshots
+
+<img src="https://github.com/cooltechie-info/elevated-ticket-widget/blob/master/example/assets/ticket_widget.png?raw=true" width="200">
+
 ## Features
 
 - Highly customizable
@@ -9,13 +13,19 @@ A Flutter package which will help you to generate ticket shaped widget with elev
 
 ## Getting started
 
-1. Import the package.
+1. Add the dependency.
+
+```yml
+elevated_ticket_widget: *latest-version*;
+```
+
+2. Import the package.
 
 ```Dart
 import 'package:elevated_ticket_widget/elevated_ticket_widget.dart';
 ```
 
-2. Use the widget in your code.
+3. Use the widget in your code.
 
 ```Dart
 ElevatedTicketWidget(

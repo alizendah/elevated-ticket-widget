@@ -1,7 +1,7 @@
 name: elevated_ticket_widget
 description: A Flutter package which will help you to generate ticket shaped widget with elevation, highly customizable and flexible.
 version: 0.0.1
-homepage:
+repository: https://github.com/cooltechie-info/elevated-ticket-widget
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
