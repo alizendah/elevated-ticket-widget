@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ElevatedTicketWidget(
               height: 500,
               width: 300,
-              elevation: 1.5,
+              elevation: 3,
               backgroundColor: Colors.white,
               child: Padding(
                 padding: const EdgeInsets.all(16.0),

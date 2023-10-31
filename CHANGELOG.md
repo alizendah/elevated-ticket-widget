@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Fixed paint color mismatch on ios platform
+
 ## 0.0.2
 
 * Added screenshots

@@ -1,4 +1,4 @@
-[![pub package](https://img.shields.io/badge/pub-0.0.2-blue.svg)](https://pub.dev/packages/elevated_ticket_widget)
+[![pub package](https://img.shields.io/badge/pub-0.0.3-blue.svg)](https://pub.dev/packages/elevated_ticket_widget)
 
 A Flutter package which will help you to generate ticket shaped widget with elevation, highly customizable and flexible.
 
@@ -12,7 +12,7 @@ A Flutter package which will help you to generate ticket shaped widget with elev
 1. Add the dependency.
 
 ```yml
-elevated_ticket_widget: ^0.0.2;
+elevated_ticket_widget: ^0.0.3;
 ```
 
 2. Import the package.
