@@ -111,7 +111,7 @@ class TicketPainter extends CustomPainter {
       ..arcToPoint(Offset(radius, 0), radius: Radius.circular(radius))
       ..close();
 
-    if (!Platform.isIOS) {
+    if (Platform.isIOS) {
       canvas.drawShadow(
         pathOuter,
         Colors.black54,
