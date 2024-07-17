@@ -15,10 +15,10 @@ class ElevatedTicketWidget extends StatelessWidget {
   });
 
   /// This is the height for the shape widget - [double]
-  final double height;
+  final double? height;
 
   /// This is the width for the shape widget - [double]
-  final double width;
+  final double? width;
 
   /// This is the shadow for the shape widget - [double]
   final double? elevation;
