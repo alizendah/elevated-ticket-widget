@@ -7,8 +7,8 @@ class ElevatedTicketWidget extends StatelessWidget {
   /// Default Constructor
   const ElevatedTicketWidget({
     super.key,
-    required this.height,
-    required this.width,
+     this.height,
+     this.width,
     this.elevation,
     this.backgroundColor,
     required this.child,
